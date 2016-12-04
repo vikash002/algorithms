@@ -28,10 +28,11 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=2
+current_page=3
 FILE_NAME_0=0;C++;0;EUTF-8;1;1;0;%2FUsers%2Fvikash.kr%2FDesktop%2Fhadoop%2Falgorithms%2Fc%2B%2B%2Falgorithms%2Ftrie.cpp;0;4
 FILE_NAME_1=1734;C++;0;EUTF-8;1;1;0;%2FUsers%2Fvikash.kr%2FDesktop%2Fhadoop%2Falgorithms%2Fc%2B%2B%2Falgorithms%2Ftrie_matching.cpp;0;4
-FILE_NAME_2=166;C++;0;EUTF-8;1;1;0;%2FUsers%2Fvikash.kr%2FDesktop%2Fhadoop%2Falgorithms%2Fc%2B%2B%2Falgorithms%2Fbwt.cpp;0;4
+FILE_NAME_2=506;C++;0;EUTF-8;1;1;0;%2FUsers%2Fvikash.kr%2FDesktop%2Fhadoop%2Falgorithms%2Fc%2B%2B%2Falgorithms%2Fbwt.cpp;0;4
+FILE_NAME_3=240;C++;0;EUTF-8;1;1;0;%2FUsers%2Fvikash.kr%2FDesktop%2Fhadoop%2Falgorithms%2Fc%2B%2B%2Falgorithms%2Fbwtinverse.cpp;0;2
 
 [VTE]
 last_dir=/Users/vikash.kr
