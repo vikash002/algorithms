@@ -10,7 +10,7 @@ strip_trailing_spaces=false
 replace_tabs=false
 
 [indentation]
-indent_width=4
+indent_width=2
 indent_type=1
 indent_hard_tab_width=8
 detect_indent=false
@@ -21,13 +21,17 @@ indent_mode=2
 name=algorithms
 base_path=/Users/vikash.kr/Desktop/hadoop/algorithms/c++/algorithms
 description=
+file_patterns=
 
 [long line marker]
 long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=0
+current_page=2
+FILE_NAME_0=0;C++;0;EUTF-8;1;1;0;%2FUsers%2Fvikash.kr%2FDesktop%2Fhadoop%2Falgorithms%2Fc%2B%2B%2Falgorithms%2Ftrie.cpp;0;4
+FILE_NAME_1=1734;C++;0;EUTF-8;1;1;0;%2FUsers%2Fvikash.kr%2FDesktop%2Fhadoop%2Falgorithms%2Fc%2B%2B%2Falgorithms%2Ftrie_matching.cpp;0;4
+FILE_NAME_2=166;C++;0;EUTF-8;1;1;0;%2FUsers%2Fvikash.kr%2FDesktop%2Fhadoop%2Falgorithms%2Fc%2B%2B%2Falgorithms%2Fbwt.cpp;0;4
 
 [VTE]
 last_dir=/Users/vikash.kr
